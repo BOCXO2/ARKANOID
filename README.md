@@ -15,6 +15,6 @@ Gameplay:
 </head>
 <body>
     <h1>Arkanoid</h1>
-    <img src="arkanoid_image.jpg" alt="Arkanoid Image" width="400" height="300">
+    <img src="![image](https://github.com/BOCXO2/ARKANOID/assets/128327136/905102b1-33d2-42f3-89cb-a3d0ddd0f8ec)" alt="Arkanoid Image" width="400" height="300">
 </body>
 </html>
