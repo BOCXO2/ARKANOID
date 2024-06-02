@@ -8,3 +8,13 @@ Gameplay:
 4. When the ball hits a block, the block disappears and the player earns points.
 5. If the ball falls below the platform and goes off the screen, the player loses one life.
 6. The game continues until all the blocks are destroyed or until the player loses all their lives.
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Arkanoid</title>
+</head>
+<body>
+    <h1>Arkanoid</h1>
+    <img src="arkanoid_image.jpg" alt="Arkanoid Image" width="400" height="300">
+</body>
+</html>
