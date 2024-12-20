@@ -1,11 +1,65 @@
-# ARKANOID
-Arkanoid is a classic arcade game where the player controls a platform to bounce a ball and destroy walls. The goal of the game is to clear the screen of all the blocks using the ball and the platform.
+<h1 align="center">ARKANOID - Классическая аркадная игра</h1>
 
-Gameplay:
-1. The platform is controlled horizontally using the "Left" and "Right" keys to move left and right respectively.
-2. The ball starts moving from the top of the screen and bounces off the walls and the platform.
-3. The player must control the platform to make the ball bounce off it and destroy the blocks on the screen.
-4. When the ball hits a block, the block disappears and the player earns points.
-5. If the ball falls below the platform and goes off the screen, the player loses one life.
-6. The game continues until all the blocks are destroyed or until the player loses all their lives.
+<p align="center">
+  <em>Реализация классической игры Arkanoid на языке Python.</em>
+</p>
 
+## О проекте
+
+<p>
+  Arkanoid — это классическая аркадная игра, в которой игрок управляет платформой, отбивая мяч и разрушая блоки. Цель игры — очистить экран от всех блоков, используя мяч и платформу.
+</p>
+
+## Геймплей
+
+<ol>
+  <li>Платформа управляется горизонтально с помощью клавиш "Влево" и "Вправо" для перемещения влево и вправо соответственно.</li>
+  <li>Мяч начинает движение с верхней части экрана и отскакивает от стен и платформы.</li>
+  <li>Игрок должен управлять платформой, чтобы мяч отскакивал от нее и разрушал блоки на экране.</li>
+  <li>Когда мяч попадает в блок, блок исчезает, и игрок зарабатывает очки.</li>
+  <li>Если мяч падает ниже платформы и выходит за пределы экрана, игрок теряет одну жизнь.</li>
+  <li>Игра продолжается до тех пор, пока все блоки не будут уничтожены или пока игрок не потеряет все жизни.</li>
+</ol>
+
+## Установка
+
+<ol>
+  <li>Клонируйте репозиторий:
+    <pre><code>git clone https://github.com/BOCXO2/ARKANOID.git</code></pre>
+  </li>
+  <li>Перейдите в директорию проекта:
+    <pre><code>cd ARKANOID</code></pre>
+  </li>
+  <li>Убедитесь, что у вас установлен Python 3.x.</li>
+  <li>Установите необходимые зависимости:
+    <pre><code>pip install -r requirements.txt</code></pre>
+  </li>
+</ol>
+
+## Запуск игры
+
+<ol>
+  <li>Запустите игру командой:
+    <pre><code>python arkanoid.py</code></pre>
+  </li>
+  <li>Управляйте платформой с помощью клавиш "Влево" и "Вправо".</li>
+  <li>Наслаждайтесь игрой!</li>
+</ol>
+
+## Структура репозитория
+
+<p>
+  Репозиторий содержит следующие файлы:
+</p>
+
+<ul>
+  <li><strong>arkanoid.py</strong> — основной файл с исходным кодом игры.</li>
+  <li><strong>README.md</strong> — описание проекта.</li>
+  <li><strong>requirements.txt</strong> — файл с перечнем зависимостей проекта.</li>
+</ul>
+
+## Контакты
+
+<p>
+  Если у вас есть вопросы или предложения, пожалуйста, свяжитесь с автором проекта через <a href="https://github.com/BOCXO2">профиль GitHub</a>.
+</p>
